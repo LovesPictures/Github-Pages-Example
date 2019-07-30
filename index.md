@@ -1,6 +1,4 @@
----
-layout: default
----
+
 
 <body>
   <div class="index-wrapper">
